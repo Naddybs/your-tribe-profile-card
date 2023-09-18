@@ -106,7 +106,7 @@ a:visited {
   color: hsl(336, 80%, 51%);
   }
   a.border {
-    padding: 10%;
+  padding: 10%;
   border-style: solid;
   border-radius: 12em;
   border-color: rgba(234, 13, 87, 0.687);
